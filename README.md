@@ -1,2 +1,2 @@
 # Buffer Overflow
-Buffer overflow tests.
+These are just simple Buffer overflow scripts.
