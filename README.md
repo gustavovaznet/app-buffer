@@ -1,2 +1,2 @@
 # Buffer Overflow
-These are just simple Buffer overflow scripts.
+Simple python buffer overflow scripts.
